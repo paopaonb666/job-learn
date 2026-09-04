@@ -46,8 +46,8 @@ git push origin HEAD
 
 | 模块 | 状态 | 自评 | 备注 |
 | --- | --- | --- | --- |
-| Java 基础 | 未开始 | - | 重点：反射、泛型、异常、String |
-| Java 集合 | 未开始 | - | 重点：HashMap 源码、ConcurrentHashMap |
+| Java 基础 | 过了一遍 | 3/5 | 2026-09-04 首轮补 8 条：String、泛型擦除、异常、反射。还剩注解、深浅拷贝 |
+| Java 集合 | 过了一遍 | 3/5 | 2026-09-04 首轮补：ArrayList 扩容、HashMap 四个为什么、CHM 演进。还剩 HashSet / LinkedHashMap LRU / PriorityQueue |
 | Java 并发 | 未开始 | - | 重点：JMM、volatile、synchronized、AQS、线程池 |
 | JVM | 未开始 | - | 重点：内存区域、GC 算法、类加载、调优 |
 | 操作系统 | 未开始 | - | 重点：进程调度、虚拟内存、IO 多路复用 |
@@ -69,7 +69,7 @@ git push origin HEAD
 | # | 模块 | 建议用时 | 状态 |
 | --- | --- | --- | --- |
 | 0 | 仓库骨架 | 已完成 | 完成 |
-| 1 | Java 基础 / 集合 | 3 天 | 未开始 |
+| 1 | Java 基础 / 集合 | 3 天 | 过了一遍（第 1 天 / 8 条） |
 | 2 | 操作系统 | 2 天 | 未开始 |
 | 3 | 计算机网络 | 2 天 | 未开始 |
 | 4 | MySQL | 3 天 | 未开始 |
