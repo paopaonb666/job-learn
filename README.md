@@ -50,7 +50,7 @@ git push origin HEAD
 | Java 集合 | 过了一遍 | 3/5 | 2026-09-04 首轮补：ArrayList 扩容、HashMap 四个为什么、CHM 演进。还剩 HashSet / LinkedHashMap LRU / PriorityQueue |
 | Java 并发 | 未开始 | - | 重点：JMM、volatile、synchronized、AQS、线程池 |
 | JVM | 未开始 | - | 重点：内存区域、GC 算法、类加载、调优 |
-| 操作系统 | 未开始 | - | 重点：进程调度、虚拟内存、IO 多路复用 |
+| 操作系统 | 过了一遍 | 3/5 | 2026-09-06 首轮补 10 条：进程线程切换、僵尸进程、MLFQ、虚拟内存、分页分段、LRU/Clock、抖动、epoll、LT/ET、零拷贝。还剩死锁与银行家算法、inode 与软硬链接、中断与异常 |
 | 计算机网络 | 未开始 | - | 重点：三次握手、TCP 可靠性、HTTPS 握手 |
 | MySQL | 未开始 | - | 重点：B+ 树索引、MVCC、锁、Explain |
 | Redis | 未开始 | - | 重点：数据结构、持久化、穿透/击穿/雪崩 |
@@ -70,7 +70,7 @@ git push origin HEAD
 | --- | --- | --- | --- |
 | 0 | 仓库骨架 | 已完成 | 完成 |
 | 1 | Java 基础 / 集合 | 3 天 | 过了一遍（第 1 天 / 8 条） |
-| 2 | 操作系统 | 2 天 | 未开始 |
+| 2 | 操作系统 | 2 天 | 过了一遍（第 1 天 / 10 条） |
 | 3 | 计算机网络 | 2 天 | 未开始 |
 | 4 | MySQL | 3 天 | 未开始 |
 | 5 | Redis | 2 天 | 未开始 |
